@@ -1,0 +1,710 @@
+bard:
+  1:
+    - pass without trace
+  2:
+    - phantasm
+  3:
+    - charm person or beast
+  4:
+    - invisibility
+  5:
+    - black cloud
+  6:
+    - spectral phantasm
+  7:
+    - hallucinatory terrain
+  8:
+    - phanstasmal killer
+  9:
+    - entangle
+    - obscure
+  10:
+    - darkness
+    - hypnotic pattern
+  11:
+    - call lightning
+    - dispel magic
+  12:
+    - fear
+    - confusion
+cleric:
+  1:
+    - bless
+    - command
+  2:
+    - cure light wounds
+  3:
+    - hold person
+    - silence
+  4:
+    - incantation
+  5:
+    - remove fear
+    - dispel magic
+  6:
+    - remove curse
+  7:
+    - serpent charm
+    - protection from evil 15' r
+  8:
+    - neutralize poison
+  9:
+    - detect magic
+    - animate dead
+    - flame strike
+  10:
+    - dispel evil
+  11:
+    - invisibility to undead
+    - cure serious wounds
+    - heal
+  12:
+    - blade barrier
+
+cryomancer:
+  1:
+    - magic ice dart
+    - shield
+  2:
+    - precipate
+  3:
+    - cool metal
+  4:
+    - cold resistance
+    - ice armour
+  5:
+    - hold person
+  6:
+    - protection from evil
+    - frost sphere
+    - dispel magic
+  7:
+    - fire shield
+  8:
+    - wall of vapours
+    - cold protection
+    - change temperature
+  9:
+    - hold portal
+    - transform to winter wolf
+  10:
+    - slow
+    - wall of ice
+    - hold monster
+  11:
+    - gust of wind
+    - summon ice daemon
+  12:
+    - ice storm
+    - control winds
+    - summon aerial minion
+
+death soldier:
+  1: 
+    - chill touch
+    - command
+  3: 
+    - forest of bones
+  5: 
+    - lightning bolt
+  7: 
+    - shocking grasp
+  8: 
+    - scythe of the reaper
+  9: 
+    - exploding skull
+  10:
+    - scare
+  11:
+    - ray of enfeeblement
+  12:
+    - vampiric touch
+
+
+druid:
+  1:
+    - entangle
+    - sanctuary from animals
+  2:
+    - influence normal fire
+  3:
+    - heat metal
+  4:
+    - light
+    - cure light wounds
+  5:
+    - call lightning
+  6:
+    - detect magic
+    - barkskin
+    - neutralize poison
+  7:
+    - summon animal i
+  8:
+    - charm person or beast
+    - hold animal
+    - dispel magic
+  9:
+    - speak with animals
+    - summon animal ii
+  10:
+    - summon insect swarm
+    - plant portal
+    - turn sticks to serpents
+  11:
+    - gust of wind
+    - summon animal iii
+  12:
+    - messenger bird
+    - lightning protection
+    - pass tree
+    - summon fire elemental
+
+fire lord:
+  1: 
+    - flaming missile
+  3: 
+    - heat metal
+  5: 
+    - flame arrow
+  7: 
+    - flash
+  8: 
+    - pyrotechnics
+  9: 
+    - fireball
+  10:
+    - smoke cloud
+  11:
+    - fire web
+  12:
+    - haste
+
+fire thief:
+  1: 
+    - flaming missile
+  3: 
+    - infrared vision
+  5: 
+    - dispel magic
+  7: 
+    - flash
+  8: 
+    - levitate
+  9: 
+    - flame arrow
+  10:
+    - smoke cloud
+  11:
+    - fire web
+  12:
+    - haste
+
+gloomhaunter:
+  1: 
+    - dampen light
+  3: 
+    - invisibility
+  5: 
+    - dimension door
+  7: 
+    - feather fall
+  8: 
+    - levitate
+  9: 
+    - dispel magic
+  10:
+    - wall of shadow
+  11:
+    - continuous darkness
+  12:
+    - hold person
+
+ice lord:
+  1: 
+    - chill touch
+    - magic ice dart
+  3: 
+    - ray of enfeeblement
+  5: 
+    - lightning bolt
+  7: 
+    - shocking grasp
+  8: 
+    - invisibility
+  9: 
+    - dispel magic
+  10:
+    - shove
+  11:
+    - cool metal
+  12:
+    - wind wall
+
+ice thief:
+  1: 
+    - magic ice dart
+  3: 
+    - invisibility
+  5: 
+    - hold person
+  7: 
+    - shield
+  8: 
+    - levitate
+  9: 
+    - dispel magic
+  10:
+    - identify
+  11:
+    - obscure
+  12:
+    - lightning bolt
+
+illusionist:
+  1:
+    - darkness
+    - phantasm
+  2:
+    - mirror image
+  3:
+    - invisibility
+  4:
+    - terrify
+    - improved phantasm
+  5:
+    - dispel phantasm 
+  6:
+    - disguise self
+    - hypnotic pattern
+    - fear
+  7:
+    - confusion
+  8:
+    - phantasmal armour
+    - paralyze
+    - phantasmal killer
+  9:
+    - detect magic
+    - maze
+  10:
+    - suggestion
+    - emotion
+    - incite chaos
+  11:
+    - glitterdust
+    - mass suggestion
+  12:
+    - dispel magic
+    - advanced spectral phantasm
+    - shades
+
+legerdemainist:
+  1: 
+    - charm person
+    - sleep
+  3: 
+    - invisibility
+  5: 
+    - clairvoyance
+  7: 
+    - detect magic
+  8: 
+    - levitate
+  9: 
+    - dispel magic
+  10: 
+    - unseen servant
+  11: 
+    - knock
+  12: 
+    - suggestion
+
+magician:
+  1:
+    - magic missile
+    - shield
+  2:
+    - protection from evil
+  3:
+    - invisibility
+    - ray of enfeeblement
+  4:
+    - detect magic
+    - detect invisibility
+  5:
+    - dispel magic
+  6:
+    - shove
+    - mirror image
+    - sepia snake sigil
+  7:
+    - remove curse
+  8:
+    - levitate
+    - fly
+    - lesser globe of invulnerability
+  9:
+    - friends
+    - feeblemind
+  10:
+    - haste
+    - fire shield
+    - teleport
+  11:
+    - scare
+    - greater globe of invulnerability
+  12:
+    - polymorph other
+    - hold monster
+    - geas
+
+mountebank:
+  1: 
+    - auditory glamer
+    - darkness
+  3: 
+    - invisibility
+  5: 
+    - spectral phantasm
+  7: 
+    - disguise self
+  8: 
+    - hypnotic pattern
+  9: 
+    - suggestion
+  10:
+    - wall of vapours
+  11:
+    - glitterdust
+  12:
+    - phantom steed
+
+necromancer:
+  1: 
+    - command
+    - scare
+  2: 
+    - protection from evil
+  3: 
+    - ray of enfeeblement
+  4: 
+    - detect magic
+    - cause blindness
+  5: 
+    - strangle
+  6: 
+    - invisibility to undead
+    - ghoul touch
+    - slow
+  7: 
+    - animate dead
+  8: 
+    - darkness
+    - sepia snake sigil
+    - shroud of fear
+  9: 
+    - chill touch
+    - death
+  10: 
+    - hold person
+    - turn sticks to serpents
+    - plague rats
+  11: 
+    - zombie visage
+    - animate dead ii
+  12: 
+    - vampiric touch
+    - inflict madness
+    - finger of death
+
+paladin:
+  7:
+    - bless
+  8:
+    - protection from evil
+  9:
+    - incantation
+  10:
+    - aid
+  11:
+    - create food and water
+  12:
+    - prayer
+
+priest:
+  1:
+    - bless
+    - command
+    - protection from evil
+  2:
+    - sanctuary
+  3:
+    - incantation
+    - silence
+  4:
+    - detect magic
+    - hold person
+  5:
+    - dispel magic
+    - magic vestment
+  6:
+    - serpent charm
+    - prayer
+  7:
+    - cure light wounds
+    - protection from evil 15' r
+    - turn sticks to serpents
+  8:
+    - meld into stone
+    - cure serious wounds
+  9:
+    - fire resistance
+    - dispel evil
+    - finger of death
+  10:
+    - light
+    - shroud of fear
+    - insect plague
+  11:
+    - remove curse
+    - summon aerial minion
+    - control weather
+  12:
+    - invisibility to undead
+    - raise dead
+    - heal
+
+purloiner:
+  1:
+    - command
+    - sanctuary
+  3:
+    - silence
+  5:
+    - locate object
+  7:
+    - detect magic
+  8:
+    - find traps
+  9:
+    - dispel magic
+  10: 
+    - omen
+  11:
+    - hold person
+  12:
+    - meld into stone
+
+pyromancer:
+  1: 
+    - flaming missile
+    - smoke cloud
+  2: 
+    - sorcerous armour
+  3: 
+    - heat metal
+  4: 
+    - flash
+    - produce flame
+  5: 
+    - flame arrow
+  6: 
+    - detect magic
+    - glitterdust
+    - dispel magic
+  7: 
+    - fire shield
+  8: 
+    - pyrotechnics
+    - incinerate normal missiles
+    - wall of fire
+  9: 
+    - light
+    - summon firefly swarm
+  10:
+    - illusory wall of fire
+    - controlled blast fireball
+    - flame strike
+  11:
+    - flaming sphere
+    - death ray of immolation
+  12:
+    - produce bonfire
+    - teleport
+    - summon fire elemental
+
+ranger:
+  7:
+    - speak with animals
+  8:
+    - protection from evil
+  9:
+    - charm person or beast
+  10:
+    - detect invisibility
+  11:
+    - hold animal
+  12:
+    - flame arrow
+
+runegraver:
+  1:
+    - command
+  2:
+    - enlargement
+  3:
+    - mount
+    - hold person
+  4:
+    - black cloud
+  5:
+    - fool's gold
+    - twofold missile
+  6:
+    - inflict disease
+  7:
+    - create food and water
+    - dweomered weapon
+  8:
+    - ice storm
+  9:
+    - freeze surface
+    - flame strike
+  10:
+    - "true seeing"
+  11:
+    - control water
+  12:
+    - reincarnation
+
+sciomancer:
+  1: 
+    - phantasmal armour
+    - sleep
+  2: 
+    - dampen light
+  3: 
+    - continuous darkness
+    - invisibility
+  4:
+    - detect magic
+    - levitate
+  5: 
+    - ray of darkness
+  6: 
+    - wall of shadow
+    - augury
+    - invisibility hemisphere
+  7: 
+    - black lightning
+  8: 
+    - silence
+    - spawn shadow monsters
+    - spawn demi-shadow monsters
+  9: 
+    - wyvern warden
+    - teleport
+  10: 
+    - hold person
+    - vampiric touch
+    - spawn shades
+  11: 
+    - cause blindness
+    - summon nightgaunt
+  12: 
+    - remove curse
+    - passwall
+    - repulsion
+
+shaman:
+  1:
+    - bless
+    - precipitate
+  2:
+    - friends
+    - spider climb
+  3:
+    - darkness
+  4:
+    - invisibility
+  5:
+    - prayer
+  6:
+    - phantasm
+  7:
+    - cure light wounds
+    - perform exorcism
+  8:
+    - charm person
+    - polymorph other
+  9:
+    - silence
+    - cure madness
+  10:
+    - stinking cloud
+    - summon elemental
+  11:
+    - remove curse
+    - animate objects
+  12:
+    - protection from normal missiles
+    - geas
+
+warlock:
+  1:
+    - dash
+  3:
+    - strengthen
+  5:
+    - twofold missile
+  7:
+    - charm person
+  8:
+    - mirror image
+  9:
+    - summon monster i
+  10:
+    - enlargement
+  11:
+    - invisibility
+  12:
+    - hold person
+
+witch:
+  1:
+    - alter self
+    - charm person
+  2:
+    - friends
+  3:
+    - darkness
+  4:
+    - protection from evil
+    - hypnotism
+  5:
+    - phantasm
+  6:
+    - detect magic
+    - obscure
+    - dispel magic
+  7:
+    - polymorph self
+  8:
+    - hold person
+    - summon insect swarm
+    - hallucinatory terrain
+  9:
+    - scare
+    - magic jar
+  10:
+    - slow
+    - plant growth
+    - shadow conjuration
+  11:
+    - ungovernable hideous laughter
+    - geas
+  12:
+    - contagion
+    - sleep everlasting
+    - summon invisible stalker

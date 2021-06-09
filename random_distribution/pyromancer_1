@@ -1,0 +1,22 @@
+# random_distribution/pyromancer_1
+dice: 2d10
+results:
+  2: { file: random_distribution/pyromancer_1 }
+  3: 3
+  4: 10
+  5: 2
+  6: 11
+  7: 6
+  8: 13
+  9: 8
+  10: 4
+  11: 7
+  12: 6
+  13: 1
+  14: 5
+  15: 9
+  16: 4
+  17: 5
+  18: 7
+  19: 2
+  20: { file: random_distribution/pyromancer_1 }
